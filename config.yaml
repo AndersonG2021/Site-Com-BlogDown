@@ -1,4 +1,4 @@
-baseURL: blogdownprojetor.netlify.app
+baseURL: https://blogdownprojetor.netlify.app
 title: Projeto R BlogDown
 theme: hugo-theme-m10c
 paginate: 8
