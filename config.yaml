@@ -1,4 +1,4 @@
-baseURL: "blogdownprojetor.netlify.app"
+baseURL: blogdownprojetor.netlify.app
 title: Your title
 theme: hugo-theme-m10c
 paginate: 8
